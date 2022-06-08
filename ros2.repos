@@ -21,8 +21,8 @@ repositories:
     version: foxy
   ament/googletest:
     type: git
-    url: https://github.com/ament/googletest.git
-    version: foxy
+    url: https://github.com/gsquaredxc/googletest.git
+    version: ros2
   ament/uncrustify_vendor:
     type: git
     url: https://github.com/ament/uncrustify_vendor.git
@@ -261,8 +261,8 @@ repositories:
     version: foxy
   ros2/rcpputils:
     type: git
-    url: https://github.com/ros2/rcpputils.git
-    version: foxy
+    url: https://github.com/gsquaredxc/rcpputils.git
+    version: foxy-googletest-humble
   ros2/rcutils:
     type: git
     url: https://github.com/ros2/rcutils.git
