@@ -45,8 +45,8 @@ repositories:
     version: releases/0.9.x
   eclipse-iceoryx/iceoryx:
     type: git
-    url: https://github.com/eclipse-iceoryx/iceoryx.git
-    version: release_2.0
+    url: https://github.com/gsquaredxc/iceoryx.git
+    version: master
   ignition/ignition_cmake2_vendor:
     type: git
     url: https://github.com/ignition-release/ignition_cmake2_vendor.git
