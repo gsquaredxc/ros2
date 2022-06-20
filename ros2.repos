@@ -277,8 +277,8 @@ repositories:
     version: humble
   ros2/rclcpp:
     type: git
-    url: https://github.com/ros2/rclcpp.git
-    version: master
+    url: https://github.com/gsquaredxc/rclcpp.git
+    version: humble-hacky
   ros2/rclpy:
     type: git
     url: https://github.com/ros2/rclpy.git
