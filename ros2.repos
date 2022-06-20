@@ -41,11 +41,11 @@ repositories:
     version: master
   eclipse-cyclonedds/cyclonedds:
     type: git
-    url: https://github.com/gsquaredxc/cyclonedds.git
-    version: hacky
+    url: https://github.com/eclipse-cyclonedds/cyclonedds.git
+    version: master
   eclipse-iceoryx/iceoryx:
     type: git
-    url: https://github.com/gsquaredxc/iceoryx.git
+    url: https://github.com/eclipse-iceoryx/iceoryx.git
     version: master
   ignition/ignition_cmake2_vendor:
     type: git
